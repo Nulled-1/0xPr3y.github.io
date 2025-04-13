@@ -3,14 +3,18 @@ layout: default
 title: Welcome to 0xPr3y.io
 ---
 
-# 🎯 Welcome to the Hunt
+# Welcome to the Hunt
 
-I'm **0xPr3y**, a cybersecurity enthusiast and Bug Bounty hunter.
+I’m **0xPr3y** — an aspiring cybersecurity professional.
 
-This blog is where I document my journey:
-- 🧠 Thoughts on hacking
-- 🔥 Bug bounty writeups
-- 🛠️ Custom tools and experiments
-- 🎓 Certification experiences
+This site is a public log of my journey into ethical hacking, red teaming, and bug bounty — from early curiosity and mistakes to structured learning and progress.
 
-Stay sharp. The hunt never ends.
+You'll find here:
+
+- Writeups from labs and CTFs  
+- Personal tools and scripts  
+- Notes from courses, certifications, and failures  
+- Reflections on what I'm learning day by day
+
+**I’m not here to show off.  
+I’m here to grow — and document every step.**

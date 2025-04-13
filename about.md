@@ -3,7 +3,7 @@ layout: default
 title: About Me
 permalink: /about/
 ---
-
+{% include header.html %}
 # Who is 0xPr3y?
 
 My name is **0xPr3y**, and I’m still learning.

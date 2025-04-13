@@ -1,1 +1,14 @@
+title: 0xPr3y
+description: My Cybersecurity Logbook
+url: "https://0xpr3y.io"
+baseurl: "" # Don't include trailing slash
 
+# Use the official Hacker theme (remote)
+remote_theme: pages-themes/hacker@v0.2.0
+
+# Enable required plugin
+plugins:
+  - jekyll-remote-theme
+
+# Optional: hide GitHub buttons from the top (if you don’t want download buttons)
+show_downloads: false

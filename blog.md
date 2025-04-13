@@ -3,7 +3,7 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-
+{% include header.html %}
 # 📚 Blog
 
 This is where I write.

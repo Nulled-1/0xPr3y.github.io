@@ -6,17 +6,17 @@ permalink: /blog/
 {% include header.html %}
 # 📚 Blog
 
-This is where I write.
+This is where I share my journey.
 
-You'll find short thoughts, reflections, and writeups about:
+You’ll find short posts about:
 
-- My journey with certifications (PJPT, future ones)
-- Thoughts on content I consume (YouTube videos, blogs, etc.)
-- Personal observations as I learn and fail and learn again
-- Reviews of tools and platforms I've tried
-- Notes from CTFs or labs I completed
+- Learning programming step by step  
+- Progress in building small games and tools  
+- Reflections on what worked and what didn’t  
+- Notes from experiments and projects  
+- Personal thoughts as I grow from beginner to better
 
-I don’t post as an expert.  
-I post as a **student sharing his path** — raw and unfiltered.
+I don’t write as an expert.  
+I write as a **beginner sharing the process** — honest and simple.
 
 Stay tuned.

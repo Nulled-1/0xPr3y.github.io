@@ -19,4 +19,17 @@ You’ll find short posts about:
 I don’t write as an expert.  
 I write as a **beginner sharing the process** — honest and simple.
 
+---
+
+## Latest posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span style="color:gray"> — {{ post.date | date: "%B %d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
 Stay tuned.
